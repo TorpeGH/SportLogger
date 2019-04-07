@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Giacomo\.android\build-cache\54c53a4b7cde7d38cbf75385cf9a80c0caa3a1cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3e607ca6e04e85741fa979402b37eb552b811641">
+        <dex dex="C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\build\intermediates\pre-dexed\debug\classes_54e7f6d8a7c69a7a50da37e222a76a6de51a5fe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Giacomo\.android\build-cache\cc53fad2e9a6495b4f21e8256999e6ae626d5970\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7057b89327260d70337f4913f933c78bb56ecd69">
+        <dex dex="C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\build\intermediates\pre-dexed\debug\classes_1ce7c1a8cc81c82a317fab06eafecadf33c13b59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Giacomo\.android\build-cache\be25503eff04cec6944768aa4a41a736b7e4e2e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\build\intermediates\pre-dexed\debug\classes_a21b24e197470dd4bcf82dd2bc96f32b9b93045e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Giacomo\.android\build-cache\521003de53debe2015bcd4f2de026817232ac7ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8e5edad98e4113971e515a8d9fe89d6f95235fa9">
+        <dex dex="C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\build\intermediates\pre-dexed\debug\classes_129fc6a0be172f34711ec4bdd17673f3d0bff064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Giacomo\.android\build-cache\c9faf373827db54519f86fcd4548b584fc244848\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\build\intermediates\pre-dexed\debug\classes_1c583c45b7b0e47c1d45118202bbe5790957e8ac.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b08fd7b2259415a3600413b5e528ca37c3bf14b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Giacomo\.android\build-cache\e70f972a8d882f3365825b4b10830ff48ae156fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\build\intermediates\pre-dexed\debug\classes_4db4d66a86d7cb3a7606852187780663b5e0e546.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Giacomo\.android\build-cache\1701c9b4fcb2a3a670d997863b0ae0295b021830\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\build\intermediates\pre-dexed\debug\classes_7f94252f5055a0ad918d1fa6faddecb47e834f18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Giacomo\.android\build-cache\b08e7621b94222479cde25bd99840c98b415fb98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b70c5ad05857b8b3b2458777e1b489a96d82f05">
+        <dex dex="C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\build\intermediates\pre-dexed\debug\classes_7c149bd21c159af1c03a6233eab57d1298733088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Giacomo\.android\build-cache\e1b9b59de888e0a4979c08ecae855fc825f3a59f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\build\intermediates\pre-dexed\debug\classes_ab82e2ee58678851c894f582732b108f33ab703e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Giacomo\.android\build-cache\8b466b50142ec133fd410ded817794885362d1a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\build\intermediates\pre-dexed\debug\classes_73b28f525c2243a2f5ea4300d18e694b581619ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7a3cd6a19a1da4403a9f691203a524ea6f22d624">
+        <dex dex="C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_781f8f7b88a1d728e2c13926d844cd5d35d0c3ed\classes.dex" />
+    </item>
+
+</items>

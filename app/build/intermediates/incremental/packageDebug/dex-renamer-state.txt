@@ -1,0 +1,7 @@
+#Thu Sep 21 15:44:04 CEST 2017
+base.0=C\:\\Users\\Giacomo\\AndroidStudioProjects\\SportLogger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b08fd7b2259415a3600413b5e528ca37c3bf14b7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Giacomo\\AndroidStudioProjects\\SportLogger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_781f8f7b88a1d728e2c13926d844cd5d35d0c3ed\\classes.dex
+base.1=C\:\\Users\\Giacomo\\AndroidStudioProjects\\SportLogger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_781f8f7b88a1d728e2c13926d844cd5d35d0c3ed
+file.0=C\:\\Users\\Giacomo\\AndroidStudioProjects\\SportLogger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b08fd7b2259415a3600413b5e528ca37c3bf14b7\\classes.dex

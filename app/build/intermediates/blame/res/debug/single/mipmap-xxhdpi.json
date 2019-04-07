@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Giacomo\\AndroidStudioProjects\\SportLogger\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Giacomo\\AndroidStudioProjects\\SportLogger\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Giacomo\\AndroidStudioProjects\\SportLogger\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_gps_on.png",
+        "source": "C:\\Users\\Giacomo\\AndroidStudioProjects\\SportLogger\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_gps_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Giacomo\\AndroidStudioProjects\\SportLogger\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_gps_off.png",
+        "source": "C:\\Users\\Giacomo\\AndroidStudioProjects\\SportLogger\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_gps_off.png"
+    }
+]

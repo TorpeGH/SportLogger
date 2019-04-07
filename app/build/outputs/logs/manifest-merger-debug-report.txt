@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:11:5-13:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Giacomo\.android\build-cache\046845f9d0be2c006c38b7dc6f6d919f1f1376bf\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\e1b9b59de888e0a4979c08ecae855fc825f3a59f\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\8961bffb5d22555ae014d2a9e916097d77f64f84\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\3c7c346abddd6ae7a285066e63df0b1497ebdd02\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\cf337110f1ba0833fc2283740029d550e27162f3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\e70f972a8d882f3365825b4b10830ff48ae156fc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\8b466b50142ec133fd410ded817794885362d1a1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\Giacomo\.android\build-cache\b08e7621b94222479cde25bd99840c98b415fb98\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.1] C:\Users\Giacomo\.android\build-cache\cc53fad2e9a6495b4f21e8256999e6ae626d5970\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.1] C:\Users\Giacomo\.android\build-cache\521003de53debe2015bcd4f2de026817232ac7ed\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.1] C:\Users\Giacomo\.android\build-cache\54c53a4b7cde7d38cbf75385cf9a80c0caa3a1cd\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Giacomo\.android\build-cache\1701c9b4fcb2a3a670d997863b0ae0295b021830\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\Giacomo\.android\build-cache\be25503eff04cec6944768aa4a41a736b7e4e2e0\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Giacomo\.android\build-cache\c9faf373827db54519f86fcd4548b584fc244848\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\31ad92b10358ffed7ec54a9563f786dd886c657a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\89517e014f5fa03f78da1047b34c22adc6972607\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\3710aeda19bb71e3a9b88fa498e01178a16cded2\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\466b35d2bc7b5d3813b06b5cdcdda92b43058d04\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\e468d8cf5cc246481554e4de1797eef1a3160902\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\b4e85b28a15a19bf59aa2b8d2a64952e2fc28a27\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\e1b9b59de888e0a4979c08ecae855fc825f3a59f\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:13:9-38
+		INJECTED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:12:9-34
+		INJECTED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:14:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\Giacomo\.android\build-cache\b08e7621b94222479cde25bd99840c98b415fb98\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.1] C:\Users\Giacomo\.android\build-cache\cc53fad2e9a6495b4f21e8256999e6ae626d5970\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.1] C:\Users\Giacomo\.android\build-cache\521003de53debe2015bcd4f2de026817232ac7ed\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:15:5-78
+	android:name
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:17:22-76
+application
+ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:20:5-52:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Giacomo\.android\build-cache\046845f9d0be2c006c38b7dc6f6d919f1f1376bf\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\e1b9b59de888e0a4979c08ecae855fc825f3a59f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\8961bffb5d22555ae014d2a9e916097d77f64f84\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\3c7c346abddd6ae7a285066e63df0b1497ebdd02\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\cf337110f1ba0833fc2283740029d550e27162f3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\8b466b50142ec133fd410ded817794885362d1a1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\Giacomo\.android\build-cache\b08e7621b94222479cde25bd99840c98b415fb98\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.1] C:\Users\Giacomo\.android\build-cache\cc53fad2e9a6495b4f21e8256999e6ae626d5970\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.1] C:\Users\Giacomo\.android\build-cache\521003de53debe2015bcd4f2de026817232ac7ed\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.1] C:\Users\Giacomo\.android\build-cache\54c53a4b7cde7d38cbf75385cf9a80c0caa3a1cd\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Giacomo\.android\build-cache\1701c9b4fcb2a3a670d997863b0ae0295b021830\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\Giacomo\.android\build-cache\be25503eff04cec6944768aa4a41a736b7e4e2e0\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Giacomo\.android\build-cache\c9faf373827db54519f86fcd4548b584fc244848\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\31ad92b10358ffed7ec54a9563f786dd886c657a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\89517e014f5fa03f78da1047b34c22adc6972607\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\3710aeda19bb71e3a9b88fa498e01178a16cded2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\466b35d2bc7b5d3813b06b5cdcdda92b43058d04\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\e468d8cf5cc246481554e4de1797eef1a3160902\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\b4e85b28a15a19bf59aa2b8d2a64952e2fc28a27\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:23:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:25:9-35
+	android:roundIcon
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:24:9-48
+	android:allowBackup
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:22:9-43
+	android:theme
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.teocri.sportlogger.MainActivity
+ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:27:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:31:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:43:9-45:55
+	android:value
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:45:13-52
+	android:name
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:44:13-58
+activity#com.teocri.sportlogger.MapsActivity
+ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:47:9-49:59
+	android:label
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:48:13-41
+activity#com.teocri.sportlogger.ReportLocations
+ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:50:9-53
+	android:name
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:50:19-50
+activity#com.teocri.sportlogger.PreferencesRequestActivity
+ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:51:9-73
+	android:name
+		ADDED from C:\Users\Giacomo\AndroidStudioProjects\SportLogger\app\src\main\AndroidManifest.xml:51:19-61
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\e1b9b59de888e0a4979c08ecae855fc825f3a59f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\8961bffb5d22555ae014d2a9e916097d77f64f84\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\3c7c346abddd6ae7a285066e63df0b1497ebdd02\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\cf337110f1ba0833fc2283740029d550e27162f3\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\e70f972a8d882f3365825b4b10830ff48ae156fc\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\8b466b50142ec133fd410ded817794885362d1a1\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\31ad92b10358ffed7ec54a9563f786dd886c657a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\89517e014f5fa03f78da1047b34c22adc6972607\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\3710aeda19bb71e3a9b88fa498e01178a16cded2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\466b35d2bc7b5d3813b06b5cdcdda92b43058d04\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\e468d8cf5cc246481554e4de1797eef1a3160902\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\b4e85b28a15a19bf59aa2b8d2a64952e2fc28a27\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\e1b9b59de888e0a4979c08ecae855fc825f3a59f\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Giacomo\.android\build-cache\e1b9b59de888e0a4979c08ecae855fc825f3a59f\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\Giacomo\.android\build-cache\b08e7621b94222479cde25bd99840c98b415fb98\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\Giacomo\.android\build-cache\b08e7621b94222479cde25bd99840c98b415fb98\output\AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\Giacomo\.android\build-cache\b08e7621b94222479cde25bd99840c98b415fb98\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\Giacomo\.android\build-cache\b08e7621b94222479cde25bd99840c98b415fb98\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\Giacomo\.android\build-cache\b08e7621b94222479cde25bd99840c98b415fb98\output\AndroidManifest.xml:21:52-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.1] C:\Users\Giacomo\.android\build-cache\cc53fad2e9a6495b4f21e8256999e6ae626d5970\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.1] C:\Users\Giacomo\.android\build-cache\521003de53debe2015bcd4f2de026817232ac7ed\output\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.1] C:\Users\Giacomo\.android\build-cache\cc53fad2e9a6495b4f21e8256999e6ae626d5970\output\AndroidManifest.xml:20:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Giacomo\.android\build-cache\1701c9b4fcb2a3a670d997863b0ae0295b021830\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Giacomo\.android\build-cache\1701c9b4fcb2a3a670d997863b0ae0295b021830\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Giacomo\.android\build-cache\1701c9b4fcb2a3a670d997863b0ae0295b021830\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\Giacomo\.android\build-cache\1701c9b4fcb2a3a670d997863b0ae0295b021830\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Giacomo\.android\build-cache\c9faf373827db54519f86fcd4548b584fc244848\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Giacomo\.android\build-cache\c9faf373827db54519f86fcd4548b584fc244848\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\Giacomo\.android\build-cache\c9faf373827db54519f86fcd4548b584fc244848\output\AndroidManifest.xml:20:20-65
